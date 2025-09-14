@@ -476,7 +476,7 @@ class MemoryAwareAgent:
             - For SET requests, call cart_tool(action="update", variant_id=..., quantity=X)
             - For INCREMENT requests, call cart_tool(action="add", variant_id=..., quantity=X)""",
 
-            tools=[fetch_catalog.as_tool(), cart_tool.as_tool(), create_order.as_tool()],
+            tools=[fetch_catalog, cart_tool, create_order],
             verbose=True,
             allow_delegation=False,
             max_iter=3

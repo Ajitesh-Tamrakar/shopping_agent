@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-09-14T23:49:02.146440",
+    "user_input": "hey",
+    "agent_response": "It seems there was an issue fetching the product catalog. However, based on the provided context, I can still guide the user on the available product categories.\n\n\ud83d\udecd\ufe0f Our Product Categories:\n\ud83c\udf5e Bread (3 items)\n\ud83c\udf6a Cookies (1 item)\n\ud83c\udf66 Ice cream (3 items)\n\nWhich category would you like to explore? If you have a specific product in mind, feel free to share!"
+  },
+  {
+    "timestamp": "2025-09-14T23:50:27.409220",
+    "user_input": "I want to see catelog",
+    "agent_response": "\ud83d\udecd\ufe0f Our Product Categories:\n\ud83c\udf5e Bread (3 items)\n\ud83c\udf66 Ice Cream (3 items)\n\nWhich category would you like to explore? If any specific products catch your interest, just let me know how many you'd like!"
+  },
+  {
+    "timestamp": "2025-09-14T23:51:04.767566",
+    "user_input": "breads please",
+    "agent_response": "\"\ud83c\udf5e Here are the available Bread Products:\n\u2022 Brown Bread - \u20b935\n\u2022 White Bread - \u20b935\n\u2022 Buns - \u20b9135\n\nAny of these catch your interest? Just let me know how many you'd like!\""
+  }
+]
